@@ -1,6 +1,8 @@
 <?php
 
 $username = "Silvio";
+$names = ["Silvio" , "Antonio" , "Simone"];
+var_dump($names);
 
 
 echo "Ciao " . $username;
